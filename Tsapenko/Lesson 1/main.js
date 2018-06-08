@@ -1,0 +1,11 @@
+a = +prompt('Imput a');
+b = +prompt('Imput b');
+c = +prompt('Imput c');
+console.log(a);
+console.log(b);
+console.log(c);
+res = a + b + c;
+console.log(res);
+console.log(a % 0 == 0);
+console.log(b % 0 == 0);
+console.log(c % 0 == 0);
